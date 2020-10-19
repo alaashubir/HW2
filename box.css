@@ -1,0 +1,40 @@
+body {
+
+    background-color: #d4a4a4;
+
+    color:white;
+
+    font-size: 1.1em;
+
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
+
+}
+
+
+
+.container {
+
+    margin: 40px auto;
+
+    max-width: 400px;
+
+}
+
+
+
+.element {
+
+    padding: 20px;
+
+    background-color: #916c89;
+
+    color: white;
+
+    margin-bottom: 30px;
+
+    height: 100px;
+
+    width: 300px;
+
+}

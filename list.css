@@ -1,0 +1,29 @@
+body {
+
+    color: #555;
+
+    font-size: 1.1em;
+
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+
+
+.container {
+
+    margin: 40px auto;
+
+    max-width: 400px;
+
+}
+
+
+li {
+
+    vertical-align: top;
+
+}
+
+
+
+
